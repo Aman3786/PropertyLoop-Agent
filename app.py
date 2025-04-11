@@ -18,10 +18,10 @@ def classify_input(image,text):
 # UI starts from here
 st.set_page_config(
     page_title="PropertyLoop Agent",
-    page_icon="🔊",
+    page_icon="👷",
 )
 
-st.title('🔊 PropertyLoop Agent')
+st.title('👷 PropertyLoop Agent')
 st.caption('Get your Property/Tenancy laws related query resolved here!') 
 
 with st.sidebar.expander("⚙️ Bot Settings"):
