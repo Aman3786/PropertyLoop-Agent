@@ -4,7 +4,7 @@
 
 **PropertyLoop-Agent** is a Streamlit-based multi-agent chatbot designed to resolve Real Estate–related queries using multimodal inputs. Users can upload property images and enter text queries (e.g., questions about property issues or tenancy FAQs), and the system intelligently routes the request to the correct agent. The project leverages LangChain for agent orchestration with a Groq-backed Llama 3.2 vision model and an external SerpAPI tool (integrated via LangChain) for Web Search to enrich its responses.
 
-Check Now: https://voicebot.up.railway.app/
+Check Now: https://propertyloop-agent.up.railway.app/
 
 ---
 Key components of the project include:
